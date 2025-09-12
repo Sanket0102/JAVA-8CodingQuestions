@@ -78,5 +78,7 @@ public class Main {
                 .allMatch(item -> item % 2 == 0);
         System.out.println(isValid);
 
+
+
     }
 }
