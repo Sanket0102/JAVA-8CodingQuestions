@@ -4,5 +4,6 @@ public class SeptFeatures {
 
     public void addedSeptFeatures(){
         String features1 = "septFeature1";
+        String features4 = "septFeatures4";
     }
 }
